@@ -1,0 +1,96 @@
+{
+  "type": "controlTemplate",
+  "dashboardelements": [
+    {
+      "type": "control",
+      "designTimeId": "0f1ca029-5fe3-485d-8fce-abf5aeeee26e",
+      "name": "Ellipse",
+      "instanceId": "lvd81c36b93dbcd4b12aa7ab3aa0c87f1bb",
+      "controlId": "sig-control-ellipse",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "280px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "140px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "30px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "30px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "101",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-ellipse-background-color",
+          "value": "HtmlColorPalette:white",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+        },
+        {
+          "name": "--theme-sig-control-ellipse-background-color_ColorScheme",
+          "value": "SensorTransportAchter",
+          "typeId": 18,
+          "propTypeId": 2,
+          "refId": "6e35ce3e-77e1-4e48-9a73-712d395edf30"
+        }
+      ]
+    }
+  ],
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": true,
+  "enableGuidelines": false,
+  "gridColor": "#000000",
+  "showRulers": false,
+  "gridStyle": "dotgrid",
+  "designTimeId": "b58c8b8b-72f8-4c77-886f-9e7438247dc0",
+  "name": "sensorsTransportAchter",
+  "classId": "CompositeControl",
+  "controlId": "sig-dashboard",
+  "version": "0.0.24",
+  "properties": [
+    {
+      "name": "position",
+      "value": "absolute",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "overflow",
+      "value": "visible",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "background",
+      "value": "transparent",
+      "typeId": 0,
+      "propTypeId": 2
+    }
+  ]
+}

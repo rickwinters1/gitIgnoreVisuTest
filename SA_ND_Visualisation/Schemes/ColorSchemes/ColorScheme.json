@@ -1,0 +1,920 @@
+{
+  "type": "ColorSchemeCollection",
+  "schemes": [
+    {
+      "type": "Scheme",
+      "name": "Checkbox",
+      "designTimeId": "adb1ee80-a9ff-4b75-a3fd-f34e094a2559",
+      "variable": {
+        "value": "1:clOperationSystem1.siAan",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "3921e762-e5aa-437c-9d59-d08cac770275"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "c84c7aa4-7f8b-4dab-a74e-942c1f8d003f",
+          "operator": 0,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SigmatekColors:--theme-sig-app-background-color",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "77832260-87b8-4cd8-83fa-b6197717c0c7"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "Emergency",
+      "designTimeId": "367a7dc1-8856-4c4f-af17-bf4b3f37945e",
+      "variable": {
+        "value": "1:clEmSafetyMaster.soState",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "5910397c-9d48-40e7-a631-befbe60e6968"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "6787c245-3dd6-4ab6-9241-1194f8c1759b",
+          "operator": 2,
+          "compareValue": {
+            "value": "0 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "d099e236-59e4-443c-8995-5df68fb1793d",
+          "operator": 2,
+          "compareValue": {
+            "value": "32770",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "ed5e2045-0a6a-46a5-961a-4b42c7a64ddd",
+          "operator": 2,
+          "compareValue": {
+            "value": "32771",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "b91ca375-d7c3-4cd3-9c85-2e5c263ae48e",
+          "operator": 2,
+          "compareValue": {
+            "value": "32772",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "4f6e1452-da9d-49bf-9d93-40191eda0660",
+          "operator": 2,
+          "compareValue": {
+            "value": "32773",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "0e711000-2dff-4801-9ebf-71dcc4b54195",
+          "operator": 2,
+          "compareValue": {
+            "value": "32768",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "SensorTransportAchter",
+      "designTimeId": "6e35ce3e-77e1-4e48-9a73-712d395edf30",
+      "variable": {
+        "value": "1:clT_On_OffNew11.soOutput",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "b58b630e-e3b8-4c7e-8807-1802d68fd097"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "cd9b9db0-c3bb-4c38-815a-8503d728ee14",
+          "operator": 2,
+          "compareValue": {
+            "value": "0",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "04495167-4540-4eee-ac1e-386c273330a2",
+          "operator": 5,
+          "compareValue": {
+            "value": "0 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "SensorTransportVoor",
+      "designTimeId": "cb62b734-4580-49ee-869a-7056a7e1bdcc",
+      "variable": {
+        "value": "1:clT_On_OffNew11.soOutput",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "b58b630e-e3b8-4c7e-8807-1802d68fd097"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "f3a0f547-ef3d-48d1-8bc5-5d639e0eb3b7",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "a3681c62-5418-44f6-abd8-840a846116b0",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "MachineStates",
+      "designTimeId": "46946017-903b-417a-b6da-bf9dea7a1f2c",
+      "variable": {
+        "value": "1:clOperationSystem1.soMachineState",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "6a475377-7f35-477b-8667-85cda979f784"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "232d40c6-691e-4a2e-93eb-335b687623be",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:darkorange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "285eadbb-a2d8-4a69-ab6e-45378651beba"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "3d7ed40a-add4-4338-b55b-160ef8301692",
+          "operator": 2,
+          "compareValue": {
+            "value": "2 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:white",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "a60d1c5a-57b3-4463-b061-80f7bea4fb0a",
+          "operator": 2,
+          "compareValue": {
+            "value": "3",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "a3dad4e9-eeae-4678-8056-bd0003b140f0",
+          "operator": 2,
+          "compareValue": {
+            "value": "4",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:mediumblue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "f0aa3bc3-9b57-45e3-adfb-0ce6d4fbb37c"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "2fdda4ee-c584-4a53-a582-16d76e4e0711",
+          "operator": 2,
+          "compareValue": {
+            "value": "7",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:mediumblue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "f0aa3bc3-9b57-45e3-adfb-0ce6d4fbb37c"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "d1acec4a-6d8b-4fd1-a52d-805a5376399e",
+          "operator": 2,
+          "compareValue": {
+            "value": "9",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "10e7c490-608a-4662-a4fb-0016cecf4f11",
+          "operator": 2,
+          "compareValue": {
+            "value": "0 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:white",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "MotorStates",
+      "designTimeId": "1d9d1835-0275-4065-9e32-3bdfef8ab461",
+      "variable": {
+        "value": "0:clMotorCommand_Encoder.soCaseMotorOnOff",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "83a3a753-7067-4d3b-9e5b-d833038303e5"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "34ec73be-c808-416d-93f8-19702b4c4e11",
+          "operator": 2,
+          "compareValue": {
+            "value": "0 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:white",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "9d12807d-b4ce-492a-a610-85773e464247",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "df7d16fd-da0e-4f9c-800d-55949947bf40",
+          "operator": 2,
+          "compareValue": {
+            "value": "2 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:white",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "44266438-5497-42b5-b6e2-9c60431c6c94",
+          "operator": 2,
+          "compareValue": {
+            "value": "3",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "4725b633-7700-4e8f-8a1f-43b972d7e88f",
+          "operator": 2,
+          "compareValue": {
+            "value": "4",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "b4b50125-c687-4364-8fd3-819556eac981",
+          "operator": 2,
+          "compareValue": {
+            "value": "7",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "f6ee54bf-960e-4a61-b8a9-abc5ebed02f5",
+          "operator": 2,
+          "compareValue": {
+            "value": "9",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Orange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "b8a5ed7f-a4b8-4943-a5cc-94a7064a7ad5",
+          "operator": 2,
+          "compareValue": {
+            "value": "11",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "OnSpeed",
+      "designTimeId": "fa869e7b-8785-4b61-afc4-bd49af69167b",
+      "variable": {
+        "value": "0:clMotorCommand_Encoder\\obReadMotorParameters.soOnSetSPeed",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "1c4bd868-7af9-4621-ab8e-0aff5a86416d"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "3b1fe99f-030c-4097-901f-ecc95e70807d",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "832ffc40-a7f6-470c-af54-8585df7ce937",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "soHeating1",
+      "designTimeId": "12998df6-04d5-4dae-8ada-9727be83c3f5",
+      "variable": {
+        "value": "1:TO127_19U0.Output5",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "ba6c214b-9f2e-4b3d-87f4-5a1e95c4882e"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "0c247bec-3afd-4325-afa9-1f79b59007fb",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Orange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "97bb79ca-47d9-4336-8f39-953aa9dbd9e8",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "OnTemp1",
+      "designTimeId": "575b12ff-37f2-4efd-8f89-2e49a5d605c9",
+      "variable": {
+        "value": "1:TempLangsSealFront.soOnTemp",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "75e11ade-85be-4337-9f5b-8e2f9a728398"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "8bdfc867-6411-4b83-b7be-bc1377ef457d",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "d1ff71f9-b21a-41d7-9125-d3618ead3722",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "soHeating2",
+      "designTimeId": "3c507323-c738-43c0-bda2-a475f5e12a0b",
+      "variable": {
+        "value": "1:TO127_19U0.Output6",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "8789da51-ac99-4c5f-b41c-06cd4db65d70"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "2585a270-a4e1-40e0-88fb-18dbd2f75904",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Orange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "fe202359-6e31-4f9e-966b-505de481055e",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "soHeating3",
+      "designTimeId": "d7750613-682a-45e6-abce-3e8ed8dce538",
+      "variable": {
+        "value": "1:TO127_19U0.Output7",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "70e52d13-ad87-4d11-bc7d-1e04af0352aa"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "8e1b7efe-8c50-4610-8230-71c630518138",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Orange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "af131db6-6b05-4f97-9d93-b78c6a966fdd",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "soHeating4",
+      "designTimeId": "7c827c3f-a7a4-4bab-91b6-b6e132a67480",
+      "variable": {
+        "value": "1:TO127_19U0.Output8",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "0201a6b3-5ba4-4909-b797-425223f045b8"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "16696a4d-83c1-4a44-8f35-fb2246b9a601",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Orange",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "7a2fe118-b70b-4e83-9c7f-7011d1d0cd66",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "SynadiaColors:Blue",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "OnTemp2",
+      "designTimeId": "9d40d6db-4f25-4749-b0e2-02927a07d3eb",
+      "variable": {
+        "value": "1:TempLangsSealBack.soOnTemp",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "35de51b7-7832-4b1b-97b6-c491835f59c3"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "24d5e312-66c0-423e-960e-b6896d0b203a",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "c0e4b042-9200-4d42-90fe-e77bcc081142",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "OnTemp3",
+      "designTimeId": "ca454c07-ff9e-4343-a171-0598858b6ce8",
+      "variable": {
+        "value": "1:TempJawsSealFront.soOnTemp",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "b0f655c0-939a-4453-ad58-563c726f497a"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "e14a985d-cb47-4ea9-af9c-48b2b36cacd0",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "f71e5f2f-b7f8-4b5a-9c85-903130328599",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    },
+    {
+      "type": "Scheme",
+      "name": "OnTemp4",
+      "designTimeId": "1d92c912-0704-4d45-afa6-acc5e86b4b51",
+      "variable": {
+        "value": "1:TempJawsSealBack.soOnTemp",
+        "typeId": 4,
+        "propTypeId": 1,
+        "refId": "11f77658-12a8-42c0-b408-d7b1423dc445"
+      },
+      "schemeEntries": [
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "56b79059-cba9-411b-8c27-52787876ea02",
+          "operator": 2,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:limegreen",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "d97207fa-ff72-4893-b3f6-4148f10da4f0"
+          }
+        },
+        {
+          "type": "SchemeEntry",
+          "designTimeId": "11533984-eded-4e54-a3b8-945de049e1ea",
+          "operator": 5,
+          "compareValue": {
+            "value": "1 ",
+            "typeId": 4,
+            "propTypeId": 1
+          },
+          "setValue": {
+            "value": "HtmlColorPalette:red",
+            "typeId": 9,
+            "propTypeId": 1,
+            "refId": "1033d91b-ca20-486a-a023-5e659355f004"
+          }
+        }
+      ],
+      "schemeId": 18
+    }
+  ],
+  "version": "0.0.24"
+}

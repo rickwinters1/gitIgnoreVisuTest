@@ -1,0 +1,545 @@
+{
+  "type": "window",
+  "controls": [
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "2a8b5a88-81ad-4fbc-9c6d-3b3c6ee6dcd8",
+      "name": "Composite Container",
+      "instanceId": "lvd58cb486bddc845f29124b6798b51393f",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "50px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "10px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "520px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "101",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-radius",
+          "value": "10px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-color",
+          "value": "HtmlColorPalette:white",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-style",
+          "value": "solid",
+          "typeId": 0,
+          "propTypeId": 2
+        }
+      ]
+    },
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "51270644-c24c-4523-a82d-c6b4bd2c5911",
+      "name": "Composite Container0",
+      "instanceId": "lvd9c532d2ca2c6481eb06f0a919c994fb7",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "330px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "10px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "520px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "102",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-radius",
+          "value": "10px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-color",
+          "value": "HtmlColorPalette:white",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-style",
+          "value": "solid",
+          "typeId": 0,
+          "propTypeId": 2
+        }
+      ]
+    },
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "df919eba-a478-4c08-a4d1-19ec6729a9d2",
+      "name": "Composite Container1",
+      "instanceId": "lvdc137e2ff77254866949dd0ecfa9600e5",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "600px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "10px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "520px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "103",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-radius",
+          "value": "10px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-composite-container-border-color",
+          "value": "HtmlColorPalette:white",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "c70e042a-8b0b-40da-9ba7-9dd2b5b4288e"
+        },
+        {
+          "name": "--theme-sig-composite-container-border-style",
+          "value": "solid",
+          "typeId": 0,
+          "propTypeId": 2
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "332cf6eb-b40c-4b36-b64a-76445e06410c",
+      "name": "Text",
+      "instanceId": "lvd688e64b7b21145e8bb1db1f12cef2e63",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Pouchpacker",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "3be04f15-ca57-4c88-a246-c566b1fc5798"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "83px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "105px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "104",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "0a49228c-02f3-4772-a8ba-1795a825fbae",
+      "name": "Text0",
+      "instanceId": "lvda0fa4774f6b641cb999feed1cbd82b64",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Carrousel 1 ",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "57c79955-69d6-42f9-9b60-3b4c38095df5"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "369px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "93px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "105",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "8bed9fdd-0ebf-4dfa-9c53-feec1a3ebc26",
+      "name": "Text1",
+      "instanceId": "lvdc1200654b8f24549aa8ab94942aab765",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Carrousel 2 ",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "1143670d-7254-4365-885c-f93177a718cd"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "638px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "95px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "106",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    }
+  ],
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": true,
+  "enableGuidelines": false,
+  "gridColor": "#000000",
+  "showRulers": false,
+  "gridStyle": "dotgrid",
+  "designTimeId": "3b27305e-b943-4fef-9ff5-352a17df0693",
+  "name": "AutoSpeed",
+  "classId": "Window",
+  "controlId": "sig-dashboard",
+  "version": "0.0.24",
+  "properties": [
+    {
+      "name": "--theme-sig-element-height",
+      "value": "600px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-width",
+      "value": "800px",
+      "typeId": 17,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-left",
+      "value": "200px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-window-panel-background-color",
+      "value": "SynadiaColors:Purple",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "a2e8fd47-9b7e-4330-8ade-8b8583f36c07"
+    },
+    {
+      "name": "--theme-sig-element-top",
+      "value": "50px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "isModal",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "closeOnBackdropClick",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-background-color",
+      "value": "SigmatekColors:--theme-sig-app-background-color",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "77832260-87b8-4cd8-83fa-b6197717c0c7"
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-opacity",
+      "value": 0.7,
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "hideOnClose",
+      "value": false,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "headerTitle",
+      "value": "SystemTexts:Auto Speeds",
+      "typeId": 5,
+      "propTypeId": 9,
+      "refId": "2c536a4d-b53e-4a78-bfa9-1f5a9dc05693"
+    },
+    {
+      "name": "--theme-sig-window-panel-content-background-color",
+      "value": "SynadiaColors:Blue",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+    }
+  ]
+}

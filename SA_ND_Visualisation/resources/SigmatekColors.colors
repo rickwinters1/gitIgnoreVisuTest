@@ -1,0 +1,842 @@
+{
+  "type": "ColorPalette",
+  "id": "3226ed22-c33d-4320-8e6a-274f6d3f824b",
+  "colors": [
+    {
+      "type": "ColorItem",
+      "id": "77832260-87b8-4cd8-83fa-b6197717c0c7",
+      "name": "--theme-sig-app-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5e473f1c-e6a2-4c3e-ae64-890ed069e75f",
+      "name": "--theme-sig-dashboard-background-color",
+      "color": "#14537A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "36efebfd-8ce6-41cf-8239-459216322a3c",
+      "name": "--theme-sig-dashboard-layer-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b139fa9d-93e7-4eaf-b0aa-302dd0dba903",
+      "name": "--theme-sig-dashboard-container-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5a9e76cb-e40f-4040-9aa4-c9571ffb0bc8",
+      "name": "--theme-sig-control-rectangle-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "68e823cc-9451-4202-8e38-bee7d53f6400",
+      "name": "--theme-sig-control-rectangle-border-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "46c9f480-038e-4a58-9eb3-c2477cd5a81b",
+      "name": "--theme-sig-control-ellipse-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "71852f74-db8d-4117-8687-82e9614d180b",
+      "name": "--theme-sig-control-ellipse-border-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "08454f14-923d-4d6e-9bc8-a1c69f9b7f8b",
+      "name": "--theme-sig-control-text-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "fe7ea233-e48b-4dc4-a81a-a783e9207b42",
+      "name": "--theme-sig-control-text-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b5ffde95-af88-44ff-b792-788319457944",
+      "name": "--theme-sig-control-title-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "decfee3d-fae3-45cf-8201-c969d55a4200",
+      "name": "--theme-sig-control-title-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5a9241aa-f4a8-4cc3-b315-63bbe2dfffd9",
+      "name": "--theme-sig-control-output-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5112c849-af0d-4d68-99a2-6f6d3b081dd6",
+      "name": "--theme-sig-control-output-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b092c710-35ed-4ed6-9bb8-071c6e4340fc",
+      "name": "--theme-sig-control-input-background-color",
+      "color": "#D7D7D7"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2427bc8f-e407-4421-b678-66ab1feb29c9",
+      "name": "--theme-sig-control-input-value-background-color",
+      "color": "#D7D7D7"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2da4ceca-da9b-4897-9d76-c44949f62142",
+      "name": "--theme-sig-control-input-value-active-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "48c7ff15-7671-406e-918e-3f59086b9255",
+      "name": "--theme-sig-control-input-value-active-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2fc8b6c9-a977-404c-980c-a356d3d46e06",
+      "name": "--theme-sig-control-input-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "6aefb1a8-77ad-4f89-9c30-7b0c9bd0b720",
+      "name": "--theme-sig-control-input-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "78e5330b-d1c9-4731-99ec-9c11b98136d7",
+      "name": "--theme-sig-control-slider-scale-line-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "061c5938-50af-41b1-ab51-04647c6a0981",
+      "name": "--theme-sig-control-slider-current-value-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e4ece5ed-0294-494e-98ca-66796e9d8cfb",
+      "name": "--theme-sig-control-slider-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2b39b8cd-fe21-4f61-ad2b-7b105f75ac2c",
+      "name": "--theme-sig-control-slider-max-value-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e7f55fce-83f9-46bf-aa8b-0fc7386d41b2",
+      "name": "--theme-sig-control-slider-min-value-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "6a0f8078-393e-488e-a5cd-3096757258aa",
+      "name": "--theme-sig-control-slider-bar-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4d2f9789-9992-4e4f-bcd6-73c8661438a4",
+      "name": "--theme-sig-control-slider-track-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b6ddc8bb-4f13-4a85-8247-4ec20bf1e4b1",
+      "name": "--theme-sig-control-slider-handle-background-color",
+      "color": "#B1B1B1"
+    },
+    {
+      "type": "ColorItem",
+      "id": "bc9d9d18-8791-4b9c-bc76-ab9a0f042f27",
+      "name": "--theme-sig-control-slider-handle-moving-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "de99252a-1ec0-4cdb-8827-0ab32aef5260",
+      "name": "--theme-sig-control-slider-handle-border-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "3dc510d0-9f90-4d02-a550-9c66e7b7fe79",
+      "name": "--theme-sig-control-slider-outofrange-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "f706f132-a8a1-4f47-bc29-fcb626f754e8",
+      "name": "--theme-sig-control-slider-outofrange-border-color",
+      "color": "#FF0000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "d0e52750-e408-49a6-8b60-91876a312113",
+      "name": "--theme-sig-control-button-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "31965b6b-3f91-40f2-96fb-149834757b49",
+      "name": "--theme-sig-control-button-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ee3f9581-7cc0-4296-add5-73f3c4182540",
+      "name": "--theme-sig-control-button-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "be4171bf-501f-4ee8-8a30-3253c9d9e4bf",
+      "name": "--theme-sig-control-button-pressed-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "d8b44b46-d88b-4f50-bab5-7162fb7f4c3f",
+      "name": "--theme-sig-control-button-pressed-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "794dc3f8-a02e-4cb6-b261-82a936630f58",
+      "name": "--theme-sig-control-radio-button-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "0bc3e95b-4ea3-4ef3-90b7-3c59e663821d",
+      "name": "--theme-sig-control-radio-button-outer-border-color",
+      "color": "rgba(196,124,124,0.3)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "88c34b0e-8880-477b-94ce-189a7cb7e932",
+      "name": "--theme-sig-control-radio-button-outer-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "187ca369-ced8-4505-b048-af7e352a624e",
+      "name": "--theme-sig-control-radio-button-inner-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "0f081665-b125-4bbe-b747-f964a23c99ca",
+      "name": "--theme-sig-control-checkbox-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "fd43c5d0-0eaa-471e-b264-7e91b169be6e",
+      "name": "--theme-sig-control-checkbox-checkmark-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "89f0babf-c0b8-42ec-9a7f-543039b5faa4",
+      "name": "--theme-sig-control-checkbox-checkmark-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "6c29916c-1838-4e20-b875-7e60df103ee0",
+      "name": "--theme-sig-control-checkbox-checkmark-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "7df52338-7122-4a25-baaf-754811afaf6b",
+      "name": "--theme-sig-control-toggle-track-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "208819da-838c-4f52-8294-db337afd63c3",
+      "name": "--theme-sig-control-toggle-track-background-color-on",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a9b0cac0-6ae1-4e07-ae60-18833c48e051",
+      "name": "--theme-sig-control-toggle-track-border-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "8a505864-5a81-4133-b931-c00ef879a5cb",
+      "name": "--theme-sig-control-toggle-nob-background-color",
+      "color": "#B1B1B1"
+    },
+    {
+      "type": "ColorItem",
+      "id": "eb14081b-846c-40c3-89b4-f21c76a34a82",
+      "name": "--theme-sig-control-toggle-nob-background-color-on",
+      "color": "#B1B1B1"
+    },
+    {
+      "type": "ColorItem",
+      "id": "d307c48c-75ae-4527-8d32-4351853b8e6c",
+      "name": "--theme-sig-control-toggle-nob-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "18e1403a-16c3-4876-88ad-f68804e5510e",
+      "name": "--theme-sig-navi-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "36301d98-94eb-40da-ad12-708290235c11",
+      "name": "--theme-sig-navi-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b1f53f94-3762-4eb9-b8b6-9db8a96a2895",
+      "name": "--theme-sig-navi-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "286c4375-fa6d-4e65-84e2-f42a2f4b10a2",
+      "name": "--theme-sig-navi-item-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "f0290403-e854-4878-b20d-86eb2f4c7e68",
+      "name": "--theme-sig-navi-item-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "601fb8fc-e0f3-489e-ac63-1ee4c6f34cff",
+      "name": "--theme-sig-navi-item-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "6d59b28d-f999-4318-bf0e-3303fe6a96c0",
+      "name": "--theme-sig-navi-submenu-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "7697ef77-e2fb-425f-8ca9-b97cb7d3f3f6",
+      "name": "--theme-sig-navi-submenu-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e55a2b52-0818-4302-8e74-ac4a1360b33a",
+      "name": "--theme-sig-navi-submenu-border-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4f55a682-2c9c-4e3a-b4ad-313f6040275d",
+      "name": "--theme-sig-navi-hover-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b95bf715-6404-410f-9366-62ac90472b9e",
+      "name": "--theme-sig-navi-selectedhover-selected-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "dc2186f5-2167-4615-b7ae-00d8a5b01821",
+      "name": "--theme-sig-navi-hover-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a073f69f-b8fa-4fa7-9a92-29f5471cc629",
+      "name": "--theme-sig-navi-selected-hover-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "fb982344-8f40-48d8-8529-9d1457b10af8",
+      "name": "--theme-sig-navi-active-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a9dc5494-621e-4c19-9352-22511f848c76",
+      "name": "--theme-sig-navi-active-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "9cacd4a6-2648-4b36-8943-627f5df47035",
+      "name": "--theme-sig-menu-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "fb1e31c4-6737-4d86-9373-bb0cb5ab74e3",
+      "name": "--theme-sig-menu-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5dc79f95-dc83-4df8-82fa-b1c9751f6f51",
+      "name": "--theme-sig-menu-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "d58b1e6a-0d1a-45bb-bd3f-d0bb35f8da39",
+      "name": "--theme-sig-menu-select-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "080454e5-f25b-4874-b83f-7bae96ac6ba5",
+      "name": "--theme-sig-menu-select-option-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "f2b0f1e0-5249-43b5-81a2-41c7631c1ad1",
+      "name": "--theme-sig-menu-select-option-color",
+      "color": "#A0A0A0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "9825a1bb-f994-4041-8ccd-5cd64b4920be",
+      "name": "--theme-sig-control-video-background-color",
+      "color": "rgba(255,255,255,0.3)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c550af6b-d8b4-49ee-aed9-2e3d062aa17f",
+      "name": "--theme-sig-control-image-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ad57690d-ae3b-4b4a-93c0-7dbd32a745f5",
+      "name": "--theme-sig-keyboard-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "27f8ef03-950f-409a-944f-4f61c55a0b07",
+      "name": "--theme-sig-keyboard-keyshell-background-color",
+      "color": "#4B535E"
+    },
+    {
+      "type": "ColorItem",
+      "id": "3e074fb8-2ff2-401e-9f89-59ab8adc5cda",
+      "name": "--theme-sig-keyboard-input-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "cb40b79d-b1e3-4c73-994b-f9f3ff86205d",
+      "name": "--theme-sig-keyboard-input-border-bottom-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "54042d67-5799-4260-91f2-ec681d8a0234",
+      "name": "--theme-sig-keyboard-input-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a1ac24e9-fd67-4e58-9b43-7b2e66bdecd8",
+      "name": "--theme-sig-keyboard-info-color",
+      "color": "#B1B1B0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "23ccc2bd-e892-443c-bc93-1ed397b08918",
+      "name": "--theme-sig-keyboard-input-inactive-background-color",
+      "color": "#B1B1B0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "0a07651c-0b52-42b2-831f-9c24cbc9a074",
+      "name": "--theme-sig-keyboard-input-inactive-bottom-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4fc9c4cf-c94e-4174-aa31-d17052a7fe35",
+      "name": "--theme-sig-keyboard-key-color",
+      "color": "#B1B1B0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e2b2cb35-3bb8-41cc-a7c7-423d90349d01",
+      "name": "--theme-sig-keyboard-key-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c32dbdc4-6ec0-4e08-8d4d-a8efba1fa841",
+      "name": "--theme-sig-keyboard-key-pressed-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "9cbd8b54-7644-4df5-8548-0a32f1bb0347",
+      "name": "--theme-sig-keyboard-key-pressed-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "64e4b72a-7e82-4814-b440-a767c39cf371",
+      "name": "--theme-sig-keyboard-key-off-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "3ad11c37-bad0-42eb-92bc-7ca326a76c4a",
+      "name": "--theme-sig-keyboard-key-off-background-color",
+      "color": "#404248"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e6a6c387-2016-4ad2-a150-9b389487a883",
+      "name": "--theme-sig-keyboard-key-special-color",
+      "color": "#B1B1B0"
+    },
+    {
+      "type": "ColorItem",
+      "id": "25b86d54-81a1-43c6-b757-cc58dde01282",
+      "name": "--theme-sig-keyboard-key-special-background-color",
+      "color": "#565961"
+    },
+    {
+      "type": "ColorItem",
+      "id": "176e6547-069c-4e74-a459-bd847b259a22",
+      "name": "--theme-sig-keyboard-key-special-selected-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "21c14c2c-2082-4893-8181-a5bcd04dd577",
+      "name": "--theme-sig-keyboard-key-special-selected-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ae5bdf7e-d407-4dcf-8bee-eb6d5cd45615",
+      "name": "--theme-sig-keyboard-close-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c6f29cea-0634-462a-a2bd-10291e442c8e",
+      "name": "--theme-sig-keyboard-close-background-color",
+      "color": "#007FC5"
+    },
+    {
+      "type": "ColorItem",
+      "id": "896ed029-52ce-4ffe-97ec-e1f7c00c85b8",
+      "name": "--theme-sig-keyboard-title-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ebdcb40d-f757-4fb0-a2bd-fbf90376b099",
+      "name": "--theme-sig-keyboard-title-background-color",
+      "color": "#007FC5"
+    },
+    {
+      "type": "ColorItem",
+      "id": "78ac244e-0cbd-45b1-94a2-2a7a42be1310",
+      "name": "--theme-sig-control-enum-background-color",
+      "color": "#D7D7D7"
+    },
+    {
+      "type": "ColorItem",
+      "id": "5ebe920d-3aad-47a0-a6b7-740179d34cfd",
+      "name": "--theme-sig-control-enum-activeoption-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ca3758ff-890d-45b5-abc8-70b1d9c12437",
+      "name": "--theme-sig-control-enum-list-option-background-color-even",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "0291678f-63a0-484d-89b3-9b80809f305f",
+      "name": "--theme-sig-control-enum-list-option-background-color-odd",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "3792254f-7081-479a-9944-c9194fd154e5",
+      "name": "--theme-sig-control-enum-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "ee4341fa-9cc8-4733-9122-87753530bfc6",
+      "name": "--theme-sig-control-enum-border-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a36e6a44-7eb8-4d85-851c-f9e81c401d8e",
+      "name": "--theme-sig-control-enum-caretdown-color",
+      "color": "rgba(42,42,42,0.8)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "01f002c5-b20d-4a32-96d7-2c3ed2b95c52",
+      "name": "--theme-sig-control-enum-caretdown-background-color",
+      "color": "rgba(42,42,42,0.3)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "847acfcd-810c-4f79-a1e7-f3775a987004",
+      "name": "--theme-sig-control-enum-list-background-color",
+      "color": "#D7D7D7"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e6d82458-254c-4965-92ac-57be69e0bdf1",
+      "name": "--theme-sig-control-enum-list-color",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "490075b3-e8f3-46d1-ac36-aa627a900a09",
+      "name": "--theme-sig-control-enum-list-option-color-selected",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c4295a17-7950-4643-a4cb-87b2d8ea2b0d",
+      "name": "--theme-sig-control-enum-list-option-background-color-selected",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "7b94ebd5-a066-4d63-a274-a7be9c27cc0e",
+      "name": "--theme-sig-control-enum-list-option-color-hover",
+      "color": "#2A2A2A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b50f10d8-4166-4d95-9c85-c6cf5c26a53a",
+      "name": "--theme-sig-control-enum-list-option-background-color-hover",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "8dea7030-181c-417e-8abe-c39d26b6b8dc",
+      "name": "--theme-sig-logging-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4ed478ef-86ce-4feb-9d50-9eae0326db38",
+      "name": "--theme-sig-logging-background-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e5fa56c7-fb9d-4398-9f13-a323dcf6f821",
+      "name": "--theme-sig-logging-row-background-color",
+      "color": "#82D5D5"
+    },
+    {
+      "type": "ColorItem",
+      "id": "8d8ca8dc-0230-4ab1-b6dd-a3e249f55588",
+      "name": "--theme-sig-logging-row-border-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e771fc35-2345-4851-b8fe-56e61e24c3f0",
+      "name": "--theme-sig-logging-column-background-color",
+      "color": "rgba(255,255,255,0)"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e51b866f-9d3f-42a8-976f-1bf856903a76",
+      "name": "--theme-sig-logging-column-border-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "01fb3b5d-770d-415c-97e7-d0e32cbfedbe",
+      "name": "--theme-sig-logging-header-background-color",
+      "color": "#CCCCCC"
+    },
+    {
+      "type": "ColorItem",
+      "id": "3ce79df4-3de8-485d-8246-d549bed7c4c5",
+      "name": "--theme-sig-logging-symbol-color",
+      "color": "#000000"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2fdb6ffc-4ea9-4385-9a9d-81ea982b53da",
+      "name": "--theme-sig-logging-symbol-background-color",
+      "color": "#DDDDDD"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4ce957c8-8426-4661-ac44-7dd617d347e5",
+      "name": "--theme-sig-logging-feedback-color",
+      "color": "#333333"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4a293282-5ca6-4da7-9d7f-562d38f1ea17",
+      "name": "--theme-sig-logging-feedback-background-color",
+      "color": "#AAAAAA"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4a178a0c-ebf3-47cc-a743-424e53adbce0",
+      "name": "--theme-sig-logging-symbol-border-color",
+      "color": "#666666"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2f76760c-d5bd-4e60-a86d-4b27866768b9",
+      "name": "--theme-sig-logging-feedback-quitalarm-color",
+      "color": "#333333"
+    },
+    {
+      "type": "ColorItem",
+      "id": "290b5d20-8429-4765-8022-aa71ce0a5bb3",
+      "name": "--theme-sig-logging-feedback-quitalarmall-color",
+      "color": "#333333"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c4a2a208-585a-4c2d-8668-ba023c146a6d",
+      "name": "--theme-sig-logging-header-filter-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "1a4b388d-0f62-40e4-9227-742e7933f0c6",
+      "name": "--theme-sig-logging-header-filter-background-color",
+      "color": "#808080"
+    },
+    {
+      "type": "ColorItem",
+      "id": "87cafc76-0aa2-4370-8ac6-8629eb59f386",
+      "name": "--theme-sig-logging-feedback-resetfilter-color",
+      "color": "#666666"
+    },
+    {
+      "type": "ColorItem",
+      "id": "196f2c10-b5d0-4144-944d-bc8953748ff8",
+      "name": "--theme-sig-logging-feedback-resetfilter-background-color",
+      "color": "#DDDDDD"
+    },
+    {
+      "type": "ColorItem",
+      "id": "97880629-2b47-4fb6-b0b3-fbd0e954336a",
+      "name": "--theme-sig-logging-scrollbar-background-color",
+      "color": "#DDDDDD"
+    },
+    {
+      "type": "ColorItem",
+      "id": "31afaadc-9d37-42fb-91b0-7fe7b43fa6ea",
+      "name": "--theme-sig-logging-scrollbar-thumb-background-color",
+      "color": "#AAAAAA"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c5d3bc4f-b7f9-4cc0-9d15-415bc42f41f3",
+      "name": "--theme-sig-logging-scrollbar-thumb-active-background-color",
+      "color": "#333333"
+    },
+    {
+      "type": "ColorItem",
+      "id": "df96e94f-01a9-496e-873b-452f466fe3c8",
+      "name": "--theme-sig-logging-scrollbar-track-active-background-color",
+      "color": "#666666"
+    },
+    {
+      "type": "ColorItem",
+      "id": "6b86cb1b-c42b-4d66-acce-c6cf293d2107",
+      "name": "--theme-sig-logging-scrollbar-border-color",
+      "color": "#666666"
+    },
+    {
+      "type": "ColorItem",
+      "id": "7d31dd2c-c886-4e21-b275-a0eb065fd58f",
+      "name": "--theme-sig-window-panel-default-background-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "0bcdde1b-66d7-4de3-9795-eb0319ff9253",
+      "name": "--theme-sig-window-panel-default-border-color",
+      "color": "#AEC81A"
+    },
+    {
+      "type": "ColorItem",
+      "id": "b62f4776-ab8e-4000-8d36-96c410a721b6",
+      "name": "--theme-sig-window-panel-default-hdr-color",
+      "color": "#333333"
+    },
+    {
+      "type": "ColorItem",
+      "id": "e48afc7b-cfa1-4edc-9a20-d581e377f508",
+      "name": "--theme-sig-window-panel-default-hdr-toolbar-border-top-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "c6b07573-77fd-497a-9869-6518b46e65fe",
+      "name": "--theme-sig-window-panel-default-content-border-top-color",
+      "color": "#FFFFFF"
+    },
+    {
+      "type": "ColorItem",
+      "id": "2027244c-a00a-467d-b5ab-daf815989654",
+      "name": "--theme-sig-window-panel-default-content-background-color",
+      "color": "#FFFFFF"
+    }
+  ],
+  "name": "SigmatekColors",
+  "version": "0.0.24"
+}

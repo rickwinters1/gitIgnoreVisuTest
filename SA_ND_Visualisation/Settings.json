@@ -1,0 +1,12 @@
+[
+  {
+    "type": "setting",
+    "key": "ReferenceLanguageID",
+    "value": 1043
+  },
+  {
+    "type": "setting",
+    "key": "ProjectLanguageID",
+    "value": 1043
+  }
+]

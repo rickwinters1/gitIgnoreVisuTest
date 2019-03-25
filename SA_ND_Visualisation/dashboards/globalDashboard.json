@@ -1,0 +1,404 @@
+{
+  "type": "dashboard",
+  "globalScreen": true,
+  "shadedGlobalScreen": false,
+  "navigationIndex": 0,
+  "startDashboard": false,
+  "zorder": 0,
+  "dashboardelements": [
+    {
+      "type": "control",
+      "designTimeId": "3bc83409-00f5-4de1-87ac-58d580092141",
+      "name": "Navigation Bar",
+      "instanceId": "lvd69d2d4c18b2043519a5a42b42ceb8bd5",
+      "controlId": "sig-navi",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "0px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "0px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "768px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "90px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "102",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-navi-item-height",
+          "value": "70px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "navidepth",
+          "value": 1.0,
+          "typeId": 0,
+          "propTypeId": 1
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "4b99df9d-7aca-4d5c-949f-2c051f3f61ab",
+      "name": "Button",
+      "instanceId": "lvdd4ec002a7ca4491ead993bb22ceb4f43",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "2px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "292px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "88px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "103",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sig-control-button-mousedown",
+          "value": "openRebootWindow",
+          "typeId": 1,
+          "propTypeId": 3,
+          "refId": "b0b03959-8408-427a-9e31-9b837da7025c"
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Reboot",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "4bac6dba-f43b-4c3c-87f9-10f667417aa1"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "24a0854a-1125-46d3-8a3c-8e3279e4a83b",
+      "name": "Image",
+      "instanceId": "lvdd36a1c82b0f74734937a82ef9a643122",
+      "controlId": "sig-control-image",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "0px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "0px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "768px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "1366px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "101",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "src",
+          "value": "resources\\images\\main-image-background 1366x768.jpg",
+          "typeId": 15,
+          "propTypeId": 1,
+          "refId": "49b8f725-07e4-49fe-a5c0-9140dc45f667"
+        }
+      ]
+    },
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "431cf065-00a9-43e0-868b-16fd80561422",
+      "name": "Composite Container",
+      "instanceId": "lvdb33f3456c0c943e5bc3ea042f4b3398e",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "StatusBar",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "a316df4e-a80a-4aee-bc1f-fdc647c21885"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "110px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "4px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "90px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "1252px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "104",
+          "typeId": 0,
+          "propTypeId": 2
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "c1ff48ec-4a53-45b4-af16-ac8693f84b49",
+      "name": "Button0",
+      "instanceId": "lvd1284886ad9ae45d0ae976b8836046de9",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "2px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "152px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "88px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "105",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sig-control-button-mousedown",
+          "value": "OpenAutoSpeedWindow",
+          "typeId": 1,
+          "propTypeId": 3,
+          "refId": "2f0c0934-b03a-4c24-8474-0c0668ade33f"
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Auto speed",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "f0ecfec4-7fe5-4f04-b383-c6e7c81ea0ac"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "eb5687fb-f6cc-4917-8fef-e2049e099152",
+      "name": "Button1",
+      "instanceId": "lvdb7d37e0b5ba34a5ebcfa0200ac425b50",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "2px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "222px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "88px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "106",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sig-control-button-mousedown",
+          "value": "OpenManualSpeedWindow",
+          "typeId": 1,
+          "propTypeId": 3,
+          "refId": "9631a724-eca3-49a6-835f-296b891cfde4"
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Manual Speed",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "679c2e4f-241c-4875-ae66-0f462ee6f12d"
+        }
+      ]
+    }
+  ],
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": true,
+  "enableGuidelines": false,
+  "gridColor": "#000000",
+  "showRulers": false,
+  "gridStyle": "dotgrid",
+  "designTimeId": "ef754e9f-07ce-48bb-9c19-94b4c5075a6d",
+  "name": "globalDashboard",
+  "classId": "globalDashboard",
+  "controlId": "sig-dashboard",
+  "version": "0.0.24",
+  "properties": [
+    {
+      "name": "position",
+      "value": "absolute",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "top",
+      "value": "0px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "left",
+      "value": "0px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "height",
+      "value": "0px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "width",
+      "value": "0px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "overflow",
+      "value": "visible",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "background",
+      "value": "transparent",
+      "typeId": 0,
+      "propTypeId": 2
+    }
+  ]
+}

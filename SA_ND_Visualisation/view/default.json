@@ -1,0 +1,25 @@
+{
+  "type": "view",
+  "zorder": 0,
+  "navigationIndex": 0,
+  "default": true,
+  "autostart": false,
+  "userlevel": 0,
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": false,
+  "enableGuidelines": false,
+  "showRulers": false,
+  "backgroundColor": {
+    "value": "SigmatekColors:--theme-sig-app-background-color",
+    "typeId": 9,
+    "propTypeId": 2
+  },
+  "designTimeId": "646ea506-ef01-4f6a-95a7-fbb0e48025db",
+  "name": "default",
+  "instanceId": "lvd103bfa72b36741d28f9e81b500b4d08e",
+  "controlId": "sig-dashboard",
+  "width": "1366px",
+  "height": "768px",
+  "version": "0.0.24"
+}

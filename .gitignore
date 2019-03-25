@@ -1,0 +1,13 @@
+#Synadia_v2
+
+# osx noise
+.DS_Store
+profile
+
+# General
+Thumbs.db
+
+#visu
+SA_ND_Visualisation/Publish/
+SA_ND_Visualisation/TempPreview/
+SA_ND_Visualisation/.tmp/

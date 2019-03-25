@@ -1,0 +1,26 @@
+{
+  "type": "MediaFontsCollection",
+  "name": "MediaFontsCollection",
+  "mediaItems": [
+    {
+      "type": "MediaItem",
+      "id": "70ba4aa0-ebb3-4bed-9422-518254d91d5b",
+      "name": "Sofia Pro Bold.ttf",
+      "path": "resources\\Fonts"
+    },
+    {
+      "type": "MediaItem",
+      "id": "8985bffc-9ac6-40c6-ac6d-c1014f996869",
+      "name": "Sofia Pro Light.ttf",
+      "path": "resources\\Fonts"
+    },
+    {
+      "type": "MediaItem",
+      "id": "a65b83ed-4c28-4161-90e0-9a30485624c5",
+      "name": "Sofia Pro Medium.ttf",
+      "path": "resources\\Fonts"
+    }
+  ],
+  "mediaType": "Fonts",
+  "version": "0.0.24"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "Functionblock",
+  "name": "openRebootWindow",
+  "id": "_b0b039598408427a9e319b837da7025c",
+  "xml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"fub_root\" id=\"_b0b039598408427a9e319b837da7025c\" deletable=\"false\" movable=\"false\" x=\"0\" y=\"0\"><statement name=\"block\"><block type=\"fub_openwindow\" id=\"FXZdG^$!;.POkRZ1c]ZP\"><value name=\"Destination\"><block type=\"fub_getwindow\" id=\"YM3G_90JYd^B.^TLSpoA\" editable=\"false\"><field name=\"JourneyResult\">Reboot</field><field name=\"Data\">{\"refId\":\"0450de6e-bab6-4f4f-b23b-07c112e99a7b\",\"typeId\":\"window\"}</field></block></value></block></statement></block></xml>",
+  "version": "0.0.24"
+}

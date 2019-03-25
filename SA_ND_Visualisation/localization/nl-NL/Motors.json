@@ -1,0 +1,92 @@
+{
+  "type": "textList",
+  "id": "a90114c9-0c76-4eba-a63e-b6559f566412",
+  "texts": [
+    {
+      "type": "textElement",
+      "id": "ef4d7527-6487-48f9-be80-2d0d701ead1a",
+      "text": "Rondloop Packer",
+      "aliasName": "Rondloop Packer"
+    },
+    {
+      "type": "textElement",
+      "id": "aac74f7e-7054-4f99-ad64-110a83d003c5",
+      "text": "Lift Pouchpacker",
+      "aliasName": "Lift Pouchpacker"
+    },
+    {
+      "type": "textElement",
+      "id": "1de1b388-fd1b-41ed-a437-a9d5335d6d6d",
+      "text": "Tray 1",
+      "aliasName": "Tray 1"
+    },
+    {
+      "type": "textElement",
+      "id": "d3219db0-35bb-4bc6-8ac4-bfc0a563acc4",
+      "text": "Tray 2",
+      "aliasName": "Tray 2"
+    },
+    {
+      "type": "textElement",
+      "id": "f8c3e2f3-b08f-4aa7-8f9d-6b9712a5459c",
+      "text": "Rondloop Car.1",
+      "aliasName": "Rondloop Car.1"
+    },
+    {
+      "type": "textElement",
+      "id": "2a543957-34b9-41fe-b322-4dade5b60946",
+      "text": "Lift Carrousel 1",
+      "aliasName": "Lift Carrousel 1"
+    },
+    {
+      "type": "textElement",
+      "id": "97646d6c-1cb1-477d-8baf-358e4e834829",
+      "text": "Motor 1 Car. 1",
+      "aliasName": "Motor 1 Car. 1"
+    },
+    {
+      "type": "textElement",
+      "id": "8293e75f-d835-4bd1-9c1d-2ef2421ef75f",
+      "text": "Motor 2 Car. 1",
+      "aliasName": "Motor 2 Car. 1"
+    },
+    {
+      "type": "textElement",
+      "id": "682349f6-16e1-4b0a-80c9-e75587fe821e",
+      "text": "Rondloop Car.2",
+      "aliasName": "Rondloop Car.2"
+    },
+    {
+      "type": "textElement",
+      "id": "73c68bbd-b8f3-46e5-949b-cecbdf0a347e",
+      "text": "Lift Carrousel 2",
+      "aliasName": "Lift Carrousel 2"
+    },
+    {
+      "type": "textElement",
+      "id": "661bb818-c999-4ce9-a854-c3f391efb85a",
+      "text": "Motor 1 Car.2",
+      "aliasName": "Motor 1 Car.2"
+    },
+    {
+      "type": "textElement",
+      "id": "64d61091-9972-4604-ae08-5ba94d25ca47",
+      "text": "Motor 2 Car.2",
+      "aliasName": "Motor 2 Car.2"
+    },
+    {
+      "type": "textElement",
+      "id": "511ce6c8-bf9e-4ef0-a545-cb06e26b7829",
+      "text": "Encoder 1",
+      "aliasName": "Encoder 1"
+    },
+    {
+      "type": "textElement",
+      "id": "976ad910-947f-44e8-b45c-61d047b755b1",
+      "text": "Encoder 2",
+      "aliasName": "Encoder 2"
+    }
+  ],
+  "name": "Motors",
+  "version": "0.0.24"
+}

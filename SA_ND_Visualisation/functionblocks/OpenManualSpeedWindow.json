@@ -1,0 +1,7 @@
+{
+  "type": "Functionblock",
+  "name": "OpenManualSpeedWindow",
+  "id": "_9631a724eca349a6835f296b891cfde4",
+  "xml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"fub_root\" id=\"_9631a724eca349a6835f296b891cfde4\" deletable=\"false\" movable=\"false\" x=\"0\" y=\"0\"><statement name=\"block\"><block type=\"fub_openwindow\" id=\"vP%``cBM-?C^H9(Dh7k|\"><value name=\"Destination\"><block type=\"fub_getwindow\" id=\"J#9HiAp~O!Ek,IpytJ%;\" editable=\"false\"><field name=\"JourneyResult\">ManualSpeed</field><field name=\"Data\">{\"refId\":\"48bbb02f-53b3-4474-8255-d4f2cabf218a\",\"typeId\":\"window\"}</field></block></value></block></statement></block></xml>",
+  "version": "0.0.24"
+}

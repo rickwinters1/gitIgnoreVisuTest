@@ -1,0 +1,451 @@
+{
+  "type": "UnitDefinitions",
+  "units": [
+    {
+      "type": "Unit",
+      "designTimeId": "3a3e6f97-ae28-4a6b-8f47-4f73ab3848ec",
+      "formula": {
+        "value": "Acceleration_mmPsec2",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "44934540-180f-4ea1-ae0d-413072b86bf2"
+      },
+      "group": "Acceleration",
+      "comment": "",
+      "name": "mmPsec2",
+      "text": {
+        "value": "UnitTexts:mmPsec2",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "e8db503a-5f0a-417e-8133-456ec0ba43a5"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "08a81185-f2f2-4ef9-acd7-359c2e2c9171",
+      "formula": {
+        "value": "Angle_deg",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "23b74df2-ee11-4269-b8db-df4ace668bf8"
+      },
+      "group": "Angle",
+      "comment": "",
+      "name": "deg",
+      "text": {
+        "value": "UnitTexts:deg",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "bb7b51e3-b0c3-4038-a4a9-13a3ddf78e82"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "8c44a9bf-d28d-4e6e-9a81-d1af826972a0",
+      "formula": {
+        "value": "Area_mm2",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "b2b41a4a-6021-4025-8027-90493e915c2d"
+      },
+      "group": "Area",
+      "comment": "",
+      "name": "mm2",
+      "text": {
+        "value": "UnitTexts:mm2",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "97451e9c-17b2-48c5-96ca-7ae2f0441e64"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "38cbb823-6d36-4fc4-a489-fcc68493c379",
+      "formula": {
+        "value": "Force_kN",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "5d0b2677-129c-40b8-b3ad-a8ee492d4a7b"
+      },
+      "group": "Force",
+      "comment": "",
+      "name": "kN",
+      "text": {
+        "value": "UnitTexts:kN",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "6d4aa307-eb0e-42f2-a14a-b06c420a2ca8"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "1bcce25a-a400-4081-b333-384cbf830181",
+      "formula": {
+        "value": "Force_N",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "06fcfd36-845e-4e8a-aef6-83facf668964"
+      },
+      "group": "Force",
+      "comment": "",
+      "name": "N",
+      "text": {
+        "value": "UnitTexts:N",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "5bc67b60-f0a9-4262-a33c-617a985abce2"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "92426ad7-f16b-4829-a641-97b746c9a2be",
+      "formula": {
+        "value": "Length_m",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "eebe62af-1fae-4b27-8378-5c1c9c688ea2"
+      },
+      "group": "Length",
+      "comment": "",
+      "name": "m",
+      "text": {
+        "value": "UnitTexts:m",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "1a52509e-c8ea-4cac-a8ce-f410ef80d314"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "7153f129-4f90-4732-9059-ceef856df876",
+      "formula": {
+        "value": "Length_mm",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "2bdc966a-2ef7-4eb4-945c-d7fe4aa5b5a6"
+      },
+      "group": "Length",
+      "comment": "",
+      "name": "mm",
+      "text": {
+        "value": "UnitTexts:mm",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "6253ded9-342c-44d6-9b90-f418d8dd0e86"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "0e2abf71-b7b8-43ce-9e1b-2132cc8f4eeb",
+      "formula": {
+        "value": "Memory_GB",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "caa6eade-aaee-4d71-8e5b-eab84af9ed75"
+      },
+      "group": "Memory",
+      "comment": "",
+      "name": "GB",
+      "text": {
+        "value": "UnitTexts:GB",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "694ecb48-0fa1-4e66-89a3-a995436c2bd1"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "c9fae1e6-ffa0-4e11-91b6-a0c737cb8343",
+      "formula": {
+        "value": "Memory_kB",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "11ba4d10-b05d-4ca9-ae1c-8aca23a3be3e"
+      },
+      "group": "Memory",
+      "comment": "",
+      "name": "kB",
+      "text": {
+        "value": "UnitTexts:kB",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "6add546f-7bcb-4d7b-96b4-54974b1857f1"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "89de6711-a1a5-4160-b246-498faa064fa3",
+      "formula": {
+        "value": "Memory_MB",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "334f163c-4218-45b3-9e55-985e14b46d18"
+      },
+      "group": "Memory",
+      "comment": "",
+      "name": "MB",
+      "text": {
+        "value": "UnitTexts:MB",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "09d08b3b-9a7e-4c97-922f-14ccb009c9be"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "2bdd4042-69b6-4dfc-b003-666d83c05c50",
+      "formula": {
+        "value": "Pressure_bar",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "ecf004ac-be5c-4f58-bc3d-3018c26e809e"
+      },
+      "group": "Pressure",
+      "comment": "",
+      "name": "bar",
+      "text": {
+        "value": "UnitTexts:bar",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "ee494ed2-cd01-4512-b6a7-0a52fbfedbfe"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "69c4a8d5-748b-40b2-b204-efc99887db07",
+      "formula": {
+        "value": "Revolution_RPM",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "2b182e0b-5711-4527-9446-49c309d83500"
+      },
+      "group": "Revolution",
+      "comment": "",
+      "name": "RPM",
+      "text": {
+        "value": "UnitTexts:RPM",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "85438c68-0f5d-460e-8d8a-22cdbc8f6905"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "08184f5d-b475-4416-bed6-4a3a0cf156a4",
+      "formula": {
+        "value": "Speed_mlpmin",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "1d4bbdba-3049-454a-8a71-2e932d413624"
+      },
+      "group": "Speed",
+      "comment": "",
+      "name": "mlpmin",
+      "text": {
+        "value": "UnitTexts:mlpmin",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "7f8111e5-26d4-41f8-811c-c014f263d276"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "a3dcff03-62c5-4935-aaaa-385329946a48",
+      "formula": {
+        "value": "Speed_mmpsec",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "51ff2a95-5922-40ff-80c7-38fee7d36396"
+      },
+      "group": "Speed",
+      "comment": "",
+      "name": "mmpsec",
+      "text": {
+        "value": "UnitTexts:mmpsec",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "b07c560b-3b4f-49de-859f-abc2d3a5948c"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "7b1f8a6f-9351-41c4-9a24-0b176c7b3120",
+      "formula": {
+        "value": "Time_hours",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "dfb28c45-0dcd-4d86-a5f3-80da461b102d"
+      },
+      "group": "Time",
+      "comment": "",
+      "name": "hours",
+      "text": {
+        "value": "UnitTexts:hours",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "b39b32f4-0444-478f-a5e9-f03593ec7fef"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "327a8605-cb0c-4ac4-90b9-e0ee01ff8cd9",
+      "formula": {
+        "value": "Time_min",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "ef822254-2526-414a-9ee3-e3120c918f2e"
+      },
+      "group": "Time",
+      "comment": "",
+      "name": "min",
+      "text": {
+        "value": "UnitTexts:min",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "33848fec-b1a1-43a0-aee2-6c99d6d46721"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "b555914f-e1f2-47d8-a483-25f1e9034968",
+      "formula": {
+        "value": "Time_ms",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "3591599e-f747-4a1a-a81a-ba37dc7426d4"
+      },
+      "group": "Time",
+      "comment": "",
+      "name": "ms",
+      "text": {
+        "value": "UnitTexts:ms",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "4254a25b-c206-4c63-ab43-2104715b33c5"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "cb672d67-0381-4d16-af78-4c561628d20e",
+      "formula": {
+        "value": "Time_sec",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "36ef9135-5564-494b-8994-b9b5249ed639"
+      },
+      "group": "Time",
+      "comment": "",
+      "name": "sec",
+      "text": {
+        "value": "UnitTexts:sec",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "2df242da-1490-4d79-aaa9-6ec448c8f26e"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "4a17c5df-03da-49ba-8260-3401139599cb",
+      "formula": {
+        "value": "Time_secs",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "5822e62c-e796-4469-aa1a-ef1b952aa66e"
+      },
+      "group": "Time",
+      "comment": "",
+      "name": "secs",
+      "text": {
+        "value": "UnitTexts:secs",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "1458f4d8-302c-4439-84b2-767061727c7e"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "80b6fd49-5ea3-4022-9ca2-52ce6bbc3fae",
+      "formula": {
+        "value": "Volume_ccm",
+        "typeId": 13,
+        "propTypeId": 1,
+        "refId": "628b3de6-bee2-4584-8b31-6cab888a5f48"
+      },
+      "group": "Volume",
+      "comment": "",
+      "name": "ccm",
+      "text": {
+        "value": "UnitTexts:ccm",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "d605b276-8178-4053-8936-1efea3eccb92"
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false
+    },
+    {
+      "type": "Unit",
+      "designTimeId": "0fe0a889-895f-4a1b-bca2-83ea98d78fa8",
+      "group": "Speed",
+      "comment": "",
+      "name": "PPS",
+      "text": {
+        "value": "UnitTexts:PPS",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "9251f3e1-2f76-4169-948a-e509a30d0645"
+      },
+      "decimals": {
+        "value": "1 ",
+        "typeId": 4,
+        "propTypeId": 1
+      },
+      "hasFixedDecimalPoint": true,
+      "showLeadingZeros": false,
+      "digits": {
+        "value": "2 ",
+        "typeId": 4,
+        "propTypeId": 1
+      }
+    }
+  ],
+  "version": "0.0.24"
+}

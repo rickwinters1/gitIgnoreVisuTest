@@ -1,0 +1,44 @@
+{
+  "type": "ColorPalette",
+  "id": "4b4cb717-8a7c-4d5f-aeab-e3d1b4fd1b52",
+  "colors": [
+    {
+      "type": "ColorItem",
+      "id": "d9405183-eb54-446d-b6a8-32477be16176",
+      "name": "Green",
+      "color": "#4EA984"
+    },
+    {
+      "type": "ColorItem",
+      "id": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04",
+      "name": "Blue",
+      "color": "#75BBE4"
+    },
+    {
+      "type": "ColorItem",
+      "id": "a2e8fd47-9b7e-4330-8ade-8b8583f36c07",
+      "name": "Purple",
+      "color": "#875F9E"
+    },
+    {
+      "type": "ColorItem",
+      "id": "43d3a59c-3c3a-47d3-bdea-5d5b44113fc9",
+      "name": "Orange",
+      "color": "#DD723F"
+    },
+    {
+      "type": "ColorItem",
+      "id": "4de499b0-4c42-4c65-b9cb-61067ce36458",
+      "name": "Yellow",
+      "color": "#E1C14E"
+    },
+    {
+      "type": "ColorItem",
+      "id": "f062be94-bcef-4806-81a1-c4d2acc736f3",
+      "name": "Pink",
+      "color": "#BA4588"
+    }
+  ],
+  "name": "SynadiaColors",
+  "version": "0.0.24"
+}

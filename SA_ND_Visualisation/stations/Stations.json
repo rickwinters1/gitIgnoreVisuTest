@@ -1,0 +1,57 @@
+{
+  "type": "StationManager",
+  "stations": [
+    {
+      "type": "station",
+      "designTimeId": "7e2d1c92-e230-44da-a5dd-e7a0fa542cde",
+      "stationId": 1,
+      "connection": "INTERN",
+      "importFilePath": "Z:\\proj-next-medmaster_PLC\\PouchPacker\\Lasal\\SA_ND_Pouchpacker\\MaeExp.xml",
+      "name": "pouchpacker",
+      "observe": true,
+      "useRelativeImportFilePath": false,
+      "label": {
+        "value": "Machines:Pouchpacker",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "3be04f15-ca57-4c88-a246-c566b1fc5798"
+      },
+      "retryInterval": 2
+    },
+    {
+      "type": "station",
+      "designTimeId": "663aa301-ad4c-40a1-9fe0-43ee63661c06",
+      "stationId": 0,
+      "connection": "10.0.1.221",
+      "importFilePath": "Z:\\proj-next-medmaster_PLC\\Carrousel\\Lasal\\SA_ND_Carrousel\\MaeExp.xml",
+      "name": "Carrousel 1",
+      "observe": true,
+      "useRelativeImportFilePath": false,
+      "label": {
+        "value": "Machines:Carrousel 1 ",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "57c79955-69d6-42f9-9b60-3b4c38095df5"
+      },
+      "retryInterval": 2
+    },
+    {
+      "type": "station",
+      "designTimeId": "b8288513-fd76-4d4c-9e1d-e129323413b4",
+      "stationId": 2,
+      "connection": "10.0.1.222",
+      "importFilePath": "Z:\\proj-next-medmaster_PLC\\Carrousel\\Lasal\\SA_ND_Carrousel\\MaeExp.xml",
+      "name": "Carrousel 2",
+      "observe": true,
+      "useRelativeImportFilePath": false,
+      "label": {
+        "value": "Machines:Carrousel 2 ",
+        "typeId": 5,
+        "propTypeId": 1,
+        "refId": "1143670d-7254-4365-885c-f93177a718cd"
+      },
+      "retryInterval": 2
+    }
+  ],
+  "version": "0.0.24"
+}

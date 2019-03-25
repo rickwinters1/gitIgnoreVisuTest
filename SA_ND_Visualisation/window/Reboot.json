@@ -1,0 +1,348 @@
+{
+  "type": "window",
+  "controls": [
+    {
+      "type": "control",
+      "designTimeId": "3cd25dd2-ad2c-4ca0-9e40-d119d7a63aea",
+      "name": "Button",
+      "instanceId": "lvd79f8f507a7594c098ca3289c5cd77556",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "63px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "30px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "190px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "101",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Reboot Pouchpacker",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "1d9ed907-cae0-4ecd-abb2-40fbf3ff7a27"
+        },
+        {
+          "name": "--theme-sig-control-button-border-radius",
+          "value": "3px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "value",
+          "value": "1:clOperationSystem1.siRebootPlc",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "f1e61d44-6a69-4442-b95b-30979acf4edb"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "2bbbad0d-8ffb-4147-b772-626fa2b0fba0",
+      "name": "Button0",
+      "instanceId": "lvd1729d4f9b7ec4fb0805386ba548dff72",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "523px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "30px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "190px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "102",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Reboot Carrousel 2",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "53886851-3938-4e59-a8d5-886e6171c83e"
+        },
+        {
+          "name": "value",
+          "value": "2:clOperationSystem1.siRebootPlc",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "26a80a77-90aa-4725-bf8c-487ad2a94966"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "8002a48c-0875-4fd8-8d0e-5b715d7e5f43",
+      "name": "Button1",
+      "instanceId": "lvd9ce8e6c82147416e803a6c6bbb70463d",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "293px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "30px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "190px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "103",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Reboot Carrousel 1 ",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "69aa2c4d-b9c8-4322-aa50-5b135e8328d8"
+        },
+        {
+          "name": "value",
+          "value": "0:clOperationSystem1.siRebootPlc",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "45b2ecb3-23e6-4b27-a090-e0f1ef2d1580"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "4443ec07-f7e0-4390-a5de-268b35d8d8e2",
+      "name": "Button2",
+      "instanceId": "lvd56c8e8fe33a244c29d88e0929a7e6842",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "292px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "130px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "70px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "190px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "104",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Reboot All",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "bca0b5b5-d88d-490d-92f2-42bbd3938cfb"
+        },
+        {
+          "name": "sig-control-button-mousedown",
+          "value": "RebootAll",
+          "typeId": 1,
+          "propTypeId": 3,
+          "refId": "265700c4-2f8c-460c-a55a-dd206d5648c3"
+        }
+      ]
+    }
+  ],
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": true,
+  "enableGuidelines": false,
+  "gridColor": "#000000",
+  "showRulers": false,
+  "gridStyle": "dotgrid",
+  "designTimeId": "0450de6e-bab6-4f4f-b23b-07c112e99a7b",
+  "name": "Reboot",
+  "classId": "Window",
+  "controlId": "sig-dashboard",
+  "version": "0.0.24",
+  "properties": [
+    {
+      "name": "--theme-sig-element-height",
+      "value": "250px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-width",
+      "value": "800px",
+      "typeId": 17,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-top",
+      "value": "250px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-left",
+      "value": "300px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-window-panel-background-color",
+      "value": "HtmlColorPalette:steelblue",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "3d240dcd-8531-445f-8fbe-614409ee7bf6"
+    },
+    {
+      "name": "headerTitle",
+      "value": "SystemTexts:Reboot",
+      "typeId": 5,
+      "propTypeId": 9,
+      "refId": "dd29b292-8c22-405e-af7d-34b0d783ee8a"
+    },
+    {
+      "name": "hasMinButton",
+      "value": false,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "hasMaxButton",
+      "value": false,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "isModal",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "enableAnimateIn",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-opacity",
+      "value": 0.7,
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-background-color",
+      "value": "SigmatekColors:--theme-sig-app-background-color",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "77832260-87b8-4cd8-83fa-b6197717c0c7"
+    },
+    {
+      "name": "closeOnBackdropClick",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "hideOnClose",
+      "value": false,
+      "typeId": 0,
+      "propTypeId": 9
+    }
+  ]
+}

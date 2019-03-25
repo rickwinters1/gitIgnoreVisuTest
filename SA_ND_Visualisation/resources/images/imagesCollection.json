@@ -1,0 +1,38 @@
+{
+  "type": "MediaImageCollection",
+  "name": "MediaImageCollection",
+  "mediaItems": [
+    {
+      "type": "MediaItem",
+      "id": "49b8f725-07e4-49fe-a5c0-9140dc45f667",
+      "name": "main-image-background 1366x768.jpg",
+      "path": "resources\\images"
+    },
+    {
+      "type": "MediaItem",
+      "id": "00f4180f-9fa9-42c0-8e17-9565d3674ee7",
+      "name": "min.jpg",
+      "path": "resources\\images"
+    },
+    {
+      "type": "MediaItem",
+      "id": "df5983f4-83c0-4673-85dc-7ebd461c2235",
+      "name": "plus.jpg",
+      "path": "resources\\images"
+    },
+    {
+      "type": "MediaItem",
+      "id": "1913f108-b73e-4b63-ad2a-2cedbd8cda8b",
+      "name": "add.png",
+      "path": "resources\\images"
+    },
+    {
+      "type": "MediaItem",
+      "id": "f5eedd11-8170-4448-9cda-6896637f2564",
+      "name": "minus.png",
+      "path": "resources\\images"
+    }
+  ],
+  "mediaType": "Image",
+  "version": "0.0.24"
+}

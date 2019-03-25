@@ -1,0 +1,92 @@
+{
+  "type": "textList",
+  "id": "198dee0e-e3cf-4828-9092-bafe787d0d05",
+  "texts": [
+    {
+      "type": "textElement",
+      "id": "e98025f4-91a6-48e7-888b-fa69f6da14c2",
+      "text": "Reset",
+      "aliasName": "Reset"
+    },
+    {
+      "type": "textElement",
+      "id": "5eca0bd4-f430-4197-80ff-62371497c9a3",
+      "text": "Pause",
+      "aliasName": "Pause"
+    },
+    {
+      "type": "textElement",
+      "id": "50380b40-99a2-4c87-94f3-58c8a34c0b8e",
+      "text": "Auto",
+      "aliasName": "Auto"
+    },
+    {
+      "type": "textElement",
+      "id": "4bac6dba-f43b-4c3c-87f9-10f667417aa1",
+      "text": "Reboot",
+      "aliasName": "Reboot"
+    },
+    {
+      "type": "textElement",
+      "id": "1d9ed907-cae0-4ecd-abb2-40fbf3ff7a27",
+      "text": "Reboot Pouchpacker",
+      "aliasName": "Reboot Pouchpacker"
+    },
+    {
+      "type": "textElement",
+      "id": "69aa2c4d-b9c8-4322-aa50-5b135e8328d8",
+      "text": "Reboot Carrousel 1",
+      "aliasName": "Reboot Carrousel 1 "
+    },
+    {
+      "type": "textElement",
+      "id": "53886851-3938-4e59-a8d5-886e6171c83e",
+      "text": "Reboot Carrousel 2",
+      "aliasName": "Reboot Carrousel 2"
+    },
+    {
+      "type": "textElement",
+      "id": "bca0b5b5-d88d-490d-92f2-42bbd3938cfb",
+      "text": "Reboot All",
+      "aliasName": "Reboot All"
+    },
+    {
+      "type": "textElement",
+      "id": "f0ecfec4-7fe5-4f04-b383-c6e7c81ea0ac",
+      "text": "Auto Speed",
+      "aliasName": "Auto speed"
+    },
+    {
+      "type": "textElement",
+      "id": "679c2e4f-241c-4875-ae66-0f462ee6f12d",
+      "text": "Manual Speed",
+      "aliasName": "Manual Speed"
+    },
+    {
+      "type": "textElement",
+      "id": "f6a23cf1-46d4-424d-b26a-6816cdc4ab96",
+      "text": "Start Manual",
+      "aliasName": "Start Manual"
+    },
+    {
+      "type": "textElement",
+      "id": "4c6cc483-fe06-4e61-88d5-8d3d3c67c8d2",
+      "text": "Single seal",
+      "aliasName": "Single seal"
+    },
+    {
+      "type": "textElement",
+      "id": "e9a200fd-5a3c-41d6-8f4a-fd0c099ffeeb",
+      "text": "Disable auto",
+      "aliasName": "Disable auto"
+    },
+    {
+      "type": "textElement",
+      "id": "f2f38c0e-03ee-4284-9a69-65d8f7329c70",
+      "text": "Disable heaters",
+      "aliasName": "Disable heaters"
+    }
+  ],
+  "name": "Buttons",
+  "version": "0.0.24"
+}

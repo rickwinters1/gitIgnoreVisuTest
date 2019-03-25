@@ -1,0 +1,7 @@
+{
+  "type": "route",
+  "label": "Navigation",
+  "default": false,
+  "routeIndex": 0,
+  "version": "0.0.24"
+}

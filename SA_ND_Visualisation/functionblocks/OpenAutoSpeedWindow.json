@@ -1,0 +1,7 @@
+{
+  "type": "Functionblock",
+  "name": "OpenAutoSpeedWindow",
+  "id": "_2f0c0934b03a4c2484740c0668ade33f",
+  "xml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"fub_root\" id=\"_2f0c0934b03a4c2484740c0668ade33f\" deletable=\"false\" movable=\"false\" x=\"0\" y=\"0\"><statement name=\"block\"><block type=\"fub_openwindow\" id=\"C.VsYz6,$e@UyQ=A120x\"><value name=\"Destination\"><block type=\"fub_getwindow\" id=\"rg101oOwH-fOOv]r{nub\" editable=\"false\"><field name=\"JourneyResult\">AutoSpeed</field><field name=\"Data\">{\"refId\":\"3b27305e-b943-4fef-9ff5-352a17df0693\",\"typeId\":\"window\"}</field></block></value></block></statement></block></xml>",
+  "version": "0.0.24"
+}

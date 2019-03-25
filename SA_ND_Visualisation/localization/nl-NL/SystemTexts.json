@@ -1,0 +1,80 @@
+{
+  "type": "textList",
+  "id": "565014ee-2f46-4671-9c37-90087f2525a9",
+  "texts": [
+    {
+      "type": "textElement",
+      "id": "4bd56708-adf0-4a3d-8829-4c4f5b0461a5",
+      "text": "Home",
+      "aliasName": "Home"
+    },
+    {
+      "type": "textElement",
+      "id": "dd29b292-8c22-405e-af7d-34b0d783ee8a",
+      "text": "Herstarten",
+      "aliasName": "Reboot"
+    },
+    {
+      "type": "textElement",
+      "id": "96374f9a-3582-41bb-976a-819e187718f3",
+      "text": "AAN",
+      "aliasName": "ON"
+    },
+    {
+      "type": "textElement",
+      "id": "d312fe81-88e9-4e00-a028-d2d6839e3e38",
+      "text": "Pouchpacker",
+      "aliasName": "Pouchpacker"
+    },
+    {
+      "type": "textElement",
+      "id": "b08ced0c-83d8-4e49-aceb-fd57ab251a2c",
+      "text": "Motoren",
+      "aliasName": "Motors"
+    },
+    {
+      "type": "textElement",
+      "id": "9332e379-d1ca-4d09-95f6-d69ad72007d5",
+      "text": "Manual Functions",
+      "aliasName": "Manual Functions"
+    },
+    {
+      "type": "textElement",
+      "id": "2c536a4d-b53e-4a78-bfa9-1f5a9dc05693",
+      "text": "Auto Speeds",
+      "aliasName": "Auto Speeds"
+    },
+    {
+      "type": "textElement",
+      "id": "c89ca96e-f83f-4926-bf9c-9fd39e1e941d",
+      "text": "Use RFID",
+      "aliasName": "Use RFID"
+    },
+    {
+      "type": "textElement",
+      "id": "dc71e383-bcb4-496e-addf-b9da7b9df32d",
+      "text": "Use Sealunit",
+      "aliasName": "Use Sealunit"
+    },
+    {
+      "type": "textElement",
+      "id": "7ec48c20-e1e8-42b5-a46d-d810e4c3c635",
+      "text": "Disable pouches",
+      "aliasName": "Disable pouches"
+    },
+    {
+      "type": "textElement",
+      "id": "b8dae5ce-3a0a-405b-a8af-cde0061e9e61",
+      "text": "Disable printer",
+      "aliasName": "Disable printer"
+    },
+    {
+      "type": "textElement",
+      "id": "c25d3eb2-5c8c-479e-a6c9-d79c4c40dbc0",
+      "text": "Do not drop pills",
+      "aliasName": "Do not drop pills"
+    }
+  ],
+  "name": "SystemTexts",
+  "version": "0.0.24"
+}

@@ -1,0 +1,75 @@
+{
+  "type": "fontStyleManager",
+  "fontStyles": [
+    {
+      "type": "FontStyle",
+      "designTimeId": "d8a2ebdc-bf6e-4d9e-a49d-2e076065221e",
+      "size": 12,
+      "name": "FontStyle",
+      "italic": false,
+      "bold": false,
+      "underline": false
+    },
+    {
+      "type": "FontStyle",
+      "designTimeId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0",
+      "size": 15,
+      "name": "Synadia",
+      "fontFamily": {
+        "value": "resources\\Fonts\\Sofia Pro Medium.ttf",
+        "typeId": 15,
+        "propTypeId": 1,
+        "refId": "a65b83ed-4c28-4161-90e0-9a30485624c5"
+      },
+      "italic": false,
+      "bold": false,
+      "underline": false
+    },
+    {
+      "type": "FontStyle",
+      "designTimeId": "ec0b8202-16d2-4fed-b85c-dcdca31c67d8",
+      "size": 15,
+      "name": "SynadiaBold",
+      "fontFamily": {
+        "value": "resources\\Fonts\\Sofia Pro Bold.ttf",
+        "typeId": 15,
+        "propTypeId": 1,
+        "refId": "70ba4aa0-ebb3-4bed-9422-518254d91d5b"
+      },
+      "italic": false,
+      "bold": false,
+      "underline": false
+    },
+    {
+      "type": "FontStyle",
+      "designTimeId": "16934996-8fe2-456c-8f3a-2033713f54e9",
+      "size": 13,
+      "name": "SynadiaSmall",
+      "fontFamily": {
+        "value": "resources\\Fonts\\Sofia Pro Light.ttf",
+        "typeId": 15,
+        "propTypeId": 1,
+        "refId": "8985bffc-9ac6-40c6-ac6d-c1014f996869"
+      },
+      "italic": false,
+      "bold": false,
+      "underline": false
+    },
+    {
+      "type": "FontStyle",
+      "designTimeId": "860181dc-10a2-4320-ae9b-d8591ed67f7c",
+      "size": 20,
+      "name": "SynadiaBig",
+      "fontFamily": {
+        "value": "resources\\Fonts\\Sofia Pro Medium.ttf",
+        "typeId": 15,
+        "propTypeId": 1,
+        "refId": "a65b83ed-4c28-4161-90e0-9a30485624c5"
+      },
+      "italic": false,
+      "bold": false,
+      "underline": false
+    }
+  ],
+  "version": "0.0.24"
+}

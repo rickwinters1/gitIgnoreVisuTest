@@ -1,0 +1,176 @@
+{
+  "type": "textList",
+  "id": "e2f8aedf-acbd-45a4-8fda-d5519fe16c1c",
+  "texts": [
+    {
+      "type": "textElement",
+      "id": "0f0b78cf-c78e-4a3d-83a4-2c813edf8f0f",
+      "text": "CPU Pouch:",
+      "aliasName": "CPU Pouch:"
+    },
+    {
+      "type": "textElement",
+      "id": "4a7b1019-29f1-4b0d-ad41-28a028c19098",
+      "text": "CPU Car.  1:",
+      "aliasName": "CPU Car. 1:"
+    },
+    {
+      "type": "textElement",
+      "id": "2362bd75-2128-42fb-8173-d86d86a2c7ee",
+      "text": "CPU Car. 2:",
+      "aliasName": "CPU Car. 2:"
+    },
+    {
+      "type": "textElement",
+      "id": "c5d1a568-da07-40d5-8924-45fc559b8ac4",
+      "text": "Idle",
+      "aliasName": "Idle"
+    },
+    {
+      "type": "textElement",
+      "id": "15548450-30d1-4c78-a6a8-7f2946eb32d6",
+      "text": "Emergency!",
+      "aliasName": "Emergency!"
+    },
+    {
+      "type": "textElement",
+      "id": "eb935a11-9d48-4c1c-9071-84189dbddb4b",
+      "text": "Safety OK",
+      "aliasName": "Safety OK"
+    },
+    {
+      "type": "textElement",
+      "id": "dc60f1bb-f7af-4e6b-b6ec-5dd6e7185c4d",
+      "text": "Speed Pouchpacker:",
+      "aliasName": "Snelheid Pouchpacker:"
+    },
+    {
+      "type": "textElement",
+      "id": "f9ec53ab-0618-43a2-8cf4-44aec4fd1a50",
+      "text": "Speed Carrousel 1:",
+      "aliasName": "Snelheid Carrousel 1:"
+    },
+    {
+      "type": "textElement",
+      "id": "526ff1d0-af05-4054-81aa-d9076f3bb1db",
+      "text": "Speed Carrousel 2:",
+      "aliasName": "Snelheid Carrousel 2:"
+    },
+    {
+      "type": "textElement",
+      "id": "3277d275-8ef0-4871-934e-90125d7ffcf7",
+      "text": "RFID-ID's",
+      "aliasName": "RFID-ID's"
+    },
+    {
+      "type": "textElement",
+      "id": "4e170761-aa88-4265-92f3-d6aa9ea7d047",
+      "text": "Voor",
+      "aliasName": "Voor"
+    },
+    {
+      "type": "textElement",
+      "id": "278c6d66-187a-4eb2-bfdb-4f75f8c4603b",
+      "text": "Na",
+      "aliasName": "Na"
+    },
+    {
+      "type": "textElement",
+      "id": "bf07d45f-b227-4c24-b963-44e4b9c3e655",
+      "text": "Set speed:",
+      "aliasName": "Set Speed:"
+    },
+    {
+      "type": "textElement",
+      "id": "695d4d28-a2d2-4fa4-9a5e-57723ebb724d",
+      "text": "Actual speed:",
+      "aliasName": "Actual speed:"
+    },
+    {
+      "type": "textElement",
+      "id": "ef98bc27-a68f-45b0-a0bf-21bf56320cb5",
+      "text": "Actual position:",
+      "aliasName": "Actual position:"
+    },
+    {
+      "type": "textElement",
+      "id": "aa996986-6719-4482-af69-de912cc08745",
+      "text": "Init case:",
+      "aliasName": "Init case:"
+    },
+    {
+      "type": "textElement",
+      "id": "5603ff2a-68aa-4dd9-a0ed-ab177a2d98cc",
+      "text": "Seal case:",
+      "aliasName": "Seal case:"
+    },
+    {
+      "type": "textElement",
+      "id": "e6c70ddf-fbb0-40cf-82fb-6199ed3f375f",
+      "text": "Drop time:",
+      "aliasName": "Drop time:"
+    },
+    {
+      "type": "textElement",
+      "id": "625cece3-8f28-428e-a1fd-7f9bb1332c17",
+      "text": "Bag lenght:",
+      "aliasName": "Bag length:"
+    },
+    {
+      "type": "textElement",
+      "id": "c9c46e8c-b0d9-4a63-b0c3-f38d5c2d8cd2",
+      "text": "Speed:",
+      "aliasName": "Speed"
+    },
+    {
+      "type": "textElement",
+      "id": "042f4d6d-63ac-4c28-bf8f-2e2591e6d98e",
+      "text": "Set temp. langs front:",
+      "aliasName": "Set temp. langsSeal front:"
+    },
+    {
+      "type": "textElement",
+      "id": "623cfd85-939a-49b3-beb0-6527f698babe",
+      "text": "Set temp. langs back:",
+      "aliasName": "set temp. langsSeal back:"
+    },
+    {
+      "type": "textElement",
+      "id": "69b10e75-f23a-417b-8c1e-602ad2fb7392",
+      "text": "Set temp. jaws front:",
+      "aliasName": "Set temp. jawsSeal front:"
+    },
+    {
+      "type": "textElement",
+      "id": "fde9cd36-82c7-467b-ba67-eb6db3e77a5c",
+      "text": "Set temp. jaws back:",
+      "aliasName": "Set temp. jawsSeal back:"
+    },
+    {
+      "type": "textElement",
+      "id": "5459981c-2ac9-4c55-9e9e-3bca0a61f974",
+      "text": "Act. temp. langs front",
+      "aliasName": "Act. temp. langsSeal front"
+    },
+    {
+      "type": "textElement",
+      "id": "db9ad18d-eef2-43ce-be06-97517d751a67",
+      "text": "Act. temp. langs back",
+      "aliasName": "Act. temp. langsSeal back"
+    },
+    {
+      "type": "textElement",
+      "id": "a22df08a-5047-420e-9ee1-3074604b8738",
+      "text": "Act. temp. jaws front",
+      "aliasName": "Act. temp. jawsSeal front"
+    },
+    {
+      "type": "textElement",
+      "id": "aaee6669-21e7-4320-8e62-8de11af668f0",
+      "text": "Act. temp. jaws back",
+      "aliasName": "Act. temp. jawsSeal back"
+    }
+  ],
+  "name": "VariableTexts",
+  "version": "0.0.24"
+}

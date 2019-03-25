@@ -1,0 +1,14 @@
+{
+  "type": "ColorPalette",
+  "id": "aa8d7691-7bb0-4a55-bdc1-799bbee8a9a1",
+  "colors": [
+    {
+      "type": "ColorItem",
+      "id": "72ef13e4-4512-4e87-aeda-e8b97bef1464",
+      "name": "Color",
+      "color": "#2A28F0"
+    }
+  ],
+  "name": "ColorPalette",
+  "version": "0.0.24"
+}

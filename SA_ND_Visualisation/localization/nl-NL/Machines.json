@@ -1,0 +1,38 @@
+{
+  "type": "textList",
+  "id": "e92bc953-2047-4b42-a065-972405b26122",
+  "texts": [
+    {
+      "type": "textElement",
+      "id": "3be04f15-ca57-4c88-a246-c566b1fc5798",
+      "text": "Pouchpacker",
+      "aliasName": "Pouchpacker"
+    },
+    {
+      "type": "textElement",
+      "id": "57c79955-69d6-42f9-9b60-3b4c38095df5",
+      "text": "Carrousel 1",
+      "aliasName": "Carrousel 1 "
+    },
+    {
+      "type": "textElement",
+      "id": "1143670d-7254-4365-885c-f93177a718cd",
+      "text": "Carrousel 2",
+      "aliasName": "Carrousel 2 "
+    },
+    {
+      "type": "textElement",
+      "id": "d1a3e9b0-4cb8-4865-a3b1-39eb38a12eea",
+      "text": "Encoder 1",
+      "aliasName": "Encoder 1"
+    },
+    {
+      "type": "textElement",
+      "id": "1e923643-ba8a-4216-a995-574f8980dd95",
+      "text": "Seal unit",
+      "aliasName": "Seal unit"
+    }
+  ],
+  "name": "Machines",
+  "version": "0.0.24"
+}

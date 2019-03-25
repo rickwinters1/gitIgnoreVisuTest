@@ -1,0 +1,1426 @@
+{
+  "type": "window",
+  "controls": [
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "9b87f670-e919-4c25-a20d-d5e4e3887fbf",
+      "name": "Composite Container",
+      "instanceId": "lvd87fb594ea7424cc8815612ba5d8c4db9",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "40px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "41px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "600px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "101",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "36db4c75-6224-47fb-a529-9110e3140cf9",
+      "name": "Composite Container0",
+      "instanceId": "lvd715948ccc278440f8bebda232f981bcd",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "320px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "41px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "600px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "102",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "compositecontainer",
+      "controlId": "sig-composite-container",
+      "designTimeId": "9e827e47-bd29-4272-92a5-fd98b9755d7b",
+      "name": "Composite Container1",
+      "instanceId": "lvdfc9dd91490ed43aaac4327a276f4d804",
+      "properties": [
+        {
+          "name": "sigcompositectrl",
+          "value": "SpeedSlider",
+          "typeId": 23,
+          "propTypeId": 5,
+          "refId": "4f27956e-3c4e-4b02-b8d0-405281e90e11"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "590px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "41px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "600px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "170px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "103",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigoverloadcontent",
+          "value": "1:clMotorCommandMotor1_Lift_PouchPacker",
+          "typeId": 4,
+          "propTypeId": 7,
+          "refId": "3b0c46f2-e92c-4984-b35b-3ac6d10771bd"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "b4cd5942-2b38-49b2-b9b4-aedeac06b28a",
+      "name": "Text",
+      "instanceId": "lvd107086dcb07e470885aad2cc614a3129",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Pouchpacker",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "3be04f15-ca57-4c88-a246-c566b1fc5798"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "73px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "51px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "105px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "104",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "71f9603d-00e5-4f45-96ca-0b147dccc3ff",
+      "name": "Text0",
+      "instanceId": "lvdfecbf3e8b99346f09fa50532f4e625d4",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Carrousel 1 ",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "57c79955-69d6-42f9-9b60-3b4c38095df5"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "359px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "51px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "93px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "105",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "0eb8f8cf-f22c-4ee1-9dd8-56dc7de0ad7f",
+      "name": "Text1",
+      "instanceId": "lvd2cb955320ec64d1181801d1daad44ff2",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "sigtext",
+          "value": "Machines:Carrousel 2 ",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "1143670d-7254-4365-885c-f93177a718cd"
+        },
+        {
+          "name": "--theme-sig-element-left",
+          "value": "628px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "51px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "95px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "106",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "ede9e7ad-bf50-4c83-a5e0-76196a533a0e",
+      "name": "Button",
+      "instanceId": "lvd9a1ccc3bd1e541c191e8d6d5abb29768",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "60px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "548px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "30px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "130px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "107",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-button-border-radius",
+          "value": "5px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Start Manual",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "f6a23cf1-46d4-424d-b26a-6816cdc4ab96"
+        },
+        {
+          "name": "value",
+          "value": "1:clTestLiftSystemPouchPacker1.siStart",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "c05d740b-e332-40d7-90be-97de42e4ea32"
+        },
+        {
+          "name": "sigbtntype",
+          "value": "toggle",
+          "typeId": 0,
+          "propTypeId": 1
+        },
+        {
+          "name": "--theme-sig-control-button-color",
+          "value": "HtmlColorPalette:lightgray",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "146e2d78-6cd5-426f-844e-51191053318f"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "4bbe60cb-6911-425b-80d9-571b3b90f233",
+      "name": "Text2",
+      "instanceId": "lvd8516eaa05adf44e6bf8fdc9e1c9a9354",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "94px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "585px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "80px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "110",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigtext",
+          "value": "SystemTexts:Use RFID",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "c89ca96e-f83f-4926-bf9c-9fd39e1e941d"
+        },
+        {
+          "name": "--theme-sig-control-text-value-vertical-align",
+          "value": "middle",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        },
+        {
+          "name": "--theme-sig-control-text-value-align",
+          "value": "left",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "d6e21331-59ad-498f-a15a-c9ecef690d19",
+      "name": "Checkbox",
+      "instanceId": "lvded0c0e58868242c6bcc777d1478dcc81",
+      "controlId": "sig-control-checkbox",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "72px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "586px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "111",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-radius",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "value",
+          "value": "1:clTestLiftSystemPouchPacker1.siTestWithRfid",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "098f5f3d-c12b-4f48-8c0a-bf7d30374bd2"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-background-color",
+          "value": "SigmatekColors:--theme-sig-logging-scrollbar-track-active-background-color",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "df96e94f-01a9-496e-873b-452f466fe3c8"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-background-color_ColorScheme",
+          "value": "Checkbox",
+          "typeId": 18,
+          "propTypeId": 2,
+          "refId": "adb1ee80-a9ff-4b75-a3fd-f34e094a2559",
+          "targetName": "--theme-sig-control-checkbox-checkmark-background-color"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-size",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "7cb25e51-1dd8-434b-8631-2408114a8dfe",
+      "name": "Checkbox0",
+      "instanceId": "lvdcf3be6c199fc4c2da33d29f56961980c",
+      "controlId": "sig-control-checkbox",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "72px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "611px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "112",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-radius",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "value",
+          "value": "1:clTestLiftSystemPouchPacker1.siWithSealUnit",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "53e1e6fe-f256-47ae-8434-5acd6165525e"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-background-color",
+          "value": "SigmatekColors:--theme-sig-logging-scrollbar-track-active-background-color",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "df96e94f-01a9-496e-873b-452f466fe3c8"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-background-color_ColorScheme",
+          "value": "Checkbox",
+          "typeId": 18,
+          "propTypeId": 2,
+          "refId": "adb1ee80-a9ff-4b75-a3fd-f34e094a2559",
+          "targetName": "--theme-sig-control-checkbox-checkmark-background-color"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-size",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "4283380d-75ae-43b9-a431-331069066b77",
+      "name": "Text3",
+      "instanceId": "lvdccfbde48beab45ebb601ad5ea400e2ea",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "94px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "610px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "96px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "113",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigtext",
+          "value": "SystemTexts:Use Sealunit",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "dc71e383-bcb4-496e-addf-b9da7b9df32d"
+        },
+        {
+          "name": "--theme-sig-control-text-value-vertical-align",
+          "value": "middle",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        },
+        {
+          "name": "--theme-sig-control-text-value-align",
+          "value": "left",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "24c00581-9f39-457b-8a9e-7be11f12d0b9",
+      "name": "Button0",
+      "instanceId": "lvd81763cb1d24f4715a10faf4ba8914a75",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "340px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "551px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "30px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "130px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "108",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-button-border-radius",
+          "value": "5px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Start Manual",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "f6a23cf1-46d4-424d-b26a-6816cdc4ab96"
+        },
+        {
+          "name": "value",
+          "value": "0:clTestLiftSystem1.siStart",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "4551fcaf-5b5a-4ee7-a8ca-032644ab1e51"
+        },
+        {
+          "name": "sigbtntype",
+          "value": "toggle",
+          "typeId": 0,
+          "propTypeId": 1
+        },
+        {
+          "name": "--theme-sig-control-button-color",
+          "value": "HtmlColorPalette:lightgray",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "146e2d78-6cd5-426f-844e-51191053318f"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "147f5e90-6620-4084-addd-d3497da36be3",
+      "name": "Text4",
+      "instanceId": "lvdf1e4356e154f4609a62e4032ace9f739",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "374px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "586px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "80px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "114",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigtext",
+          "value": "SystemTexts:Use RFID",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "c89ca96e-f83f-4926-bf9c-9fd39e1e941d"
+        },
+        {
+          "name": "--theme-sig-control-text-value-vertical-align",
+          "value": "middle",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        },
+        {
+          "name": "--theme-sig-control-text-value-align",
+          "value": "left",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "9f6a556d-f570-4f0a-94c3-5a2def886ec6",
+      "name": "Checkbox1",
+      "instanceId": "lvd925686d9b1104ea19a7c52f9570baf70",
+      "controlId": "sig-control-checkbox",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "352px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "589px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "115",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-radius",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "value",
+          "value": "0:clTestLiftSystem1.siTestWithRfid",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "8b1f49b8-e298-4be2-9652-d6a70c9dab7d"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-background-color",
+          "value": "SigmatekColors:--theme-sig-logging-scrollbar-track-active-background-color",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "df96e94f-01a9-496e-873b-452f466fe3c8"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-background-color_ColorScheme",
+          "value": "Checkbox",
+          "typeId": 18,
+          "propTypeId": 2,
+          "refId": "adb1ee80-a9ff-4b75-a3fd-f34e094a2559",
+          "targetName": "--theme-sig-control-checkbox-checkmark-background-color"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-size",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "d6c22713-0ffe-4a10-8e32-44efeb568d2a",
+      "name": "Button1",
+      "instanceId": "lvdee7dbbf360b349e8828c01a4aa0d9f1f",
+      "controlId": "sig-control-button",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "610px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "551px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "30px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "130px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "109",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-button-border-radius",
+          "value": "5px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigbtntext",
+          "value": "Buttons:Start Manual",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "f6a23cf1-46d4-424d-b26a-6816cdc4ab96"
+        },
+        {
+          "name": "value",
+          "value": "2:clTestLiftSystem1.siStart",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "b89a8dbb-c3fd-46f7-98e8-de3341829e71"
+        },
+        {
+          "name": "sigbtntype",
+          "value": "toggle",
+          "typeId": 0,
+          "propTypeId": 1
+        },
+        {
+          "name": "--theme-sig-control-button-color",
+          "value": "HtmlColorPalette:lightgray",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "146e2d78-6cd5-426f-844e-51191053318f"
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "f0002c1c-af24-4c86-a24f-71f69fa63401",
+      "name": "Text5",
+      "instanceId": "lvdec3431eaa0c74922981430366b5f079c",
+      "controlId": "sig-control-text",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "643px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "586px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "80px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "116",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "sigtext",
+          "value": "SystemTexts:Use RFID",
+          "typeId": 5,
+          "propTypeId": 1,
+          "refId": "c89ca96e-f83f-4926-bf9c-9fd39e1e941d"
+        },
+        {
+          "name": "--theme-sig-control-text-value-vertical-align",
+          "value": "middle",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        },
+        {
+          "name": "--theme-sig-control-text-value-align",
+          "value": "left",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-text-color",
+          "value": "HtmlColorPalette:black",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "27ef9a9b-d9d0-48e5-97a4-01915653fb0b"
+        }
+      ]
+    },
+    {
+      "type": "control",
+      "designTimeId": "f0e30fbb-8c0f-4f32-b38e-dd29fa48cf54",
+      "name": "Checkbox2",
+      "instanceId": "lvd83e6f7b23e8148ab8ca8f1eb423c7ccc",
+      "controlId": "sig-control-checkbox",
+      "properties": [
+        {
+          "name": "--theme-sig-element-left",
+          "value": "622px",
+          "typeId": 17,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-top",
+          "value": "589px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-height",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-element-width",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "rotation",
+          "value": 0.0,
+          "typeId": 17,
+          "propTypeId": 12
+        },
+        {
+          "name": "--theme-sig-element-zindex",
+          "value": "117",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-radius",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "value",
+          "value": "2:clTestLiftSystem1.siTestWithRfid",
+          "typeId": 4,
+          "propTypeId": 1,
+          "refId": "245de331-c4c1-4660-a82d-4434793a3597"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-border-width",
+          "value": "1px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "--theme-sig-control-checkbox-background-color",
+          "value": "SigmatekColors:--theme-sig-logging-scrollbar-track-active-background-color",
+          "typeId": 9,
+          "propTypeId": 2,
+          "refId": "df96e94f-01a9-496e-873b-452f466fe3c8"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-background-color_ColorScheme",
+          "value": "Checkbox",
+          "typeId": 18,
+          "propTypeId": 2,
+          "refId": "adb1ee80-a9ff-4b75-a3fd-f34e094a2559",
+          "targetName": "--theme-sig-control-checkbox-checkmark-background-color"
+        },
+        {
+          "name": "--theme-sig-control-checkbox-checkmark-size",
+          "value": "20px",
+          "typeId": 0,
+          "propTypeId": 2
+        },
+        {
+          "name": "elementMainFont",
+          "value": "Synadia",
+          "typeId": 26,
+          "propTypeId": 6,
+          "refId": "222ebbf4-1a96-4a62-a6af-8bcd4beb9eb0"
+        }
+      ]
+    }
+  ],
+  "gridWidth": "10px",
+  "gridHeight": "10px",
+  "enableSnap": true,
+  "enableGuidelines": false,
+  "gridColor": "#000000",
+  "showRulers": false,
+  "gridStyle": "dotgrid",
+  "designTimeId": "48bbb02f-53b3-4474-8255-d4f2cabf218a",
+  "name": "ManualSpeed",
+  "classId": "Window",
+  "controlId": "sig-dashboard",
+  "version": "0.0.24",
+  "properties": [
+    {
+      "name": "--theme-sig-element-height",
+      "value": "700px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-width",
+      "value": "800px",
+      "typeId": 17,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-element-left",
+      "value": "200px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "--theme-sig-window-panel-background-color",
+      "value": "SynadiaColors:Purple",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "a2e8fd47-9b7e-4330-8ade-8b8583f36c07"
+    },
+    {
+      "name": "--theme-sig-element-top",
+      "value": "50px",
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "isModal",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "closeOnBackdropClick",
+      "value": true,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-background-color",
+      "value": "SigmatekColors:--theme-sig-app-background-color",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "77832260-87b8-4cd8-83fa-b6197717c0c7"
+    },
+    {
+      "name": "--theme-sig-window-panel-modal-opacity",
+      "value": 0.7,
+      "typeId": 0,
+      "propTypeId": 2
+    },
+    {
+      "name": "hideOnClose",
+      "value": false,
+      "typeId": 0,
+      "propTypeId": 9
+    },
+    {
+      "name": "headerTitle",
+      "value": "SystemTexts:Manual Functions",
+      "typeId": 5,
+      "propTypeId": 9,
+      "refId": "9332e379-d1ca-4d09-95f6-d69ad72007d5"
+    },
+    {
+      "name": "--theme-sig-window-panel-content-background-color",
+      "value": "SynadiaColors:Blue",
+      "typeId": 9,
+      "propTypeId": 2,
+      "refId": "bd4ffa4b-070a-4f70-b5c1-e826932e9b04"
+    }
+  ]
+}
