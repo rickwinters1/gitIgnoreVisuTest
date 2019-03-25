@@ -8,6 +8,6 @@ profile
 Thumbs.db
 
 #visu
-SA_ND_Visualisation/Publish/
-SA_ND_Visualisation/TempPreview/
-SA_ND_Visualisation/.tmp/
+**/Publish/
+**/TempPreview/
+**/.tmp/
